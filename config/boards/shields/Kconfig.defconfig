@@ -1,0 +1,6 @@
+if SHIELD_MY_BOARD
+
+config CHIQUI_KEYBOARD
+    default "My Board"
+
+endif
